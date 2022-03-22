@@ -27,5 +27,8 @@
 
 ## SWOT Analysis
 
+![SWOT](https://user-images.githubusercontent.com/66021448/159547605-8629e7a6-2ddb-432a-af18-6bb970751cef.jpg)
+
+
   
   
