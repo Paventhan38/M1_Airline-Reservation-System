@@ -21,7 +21,7 @@
   
 ### Booking Tickets
 ### Cancel Tickets
-### Display Reservation Details
+### View All Reservation Details
 ### Exit
   
   
