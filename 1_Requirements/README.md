@@ -2,14 +2,14 @@
 
 ##Introduction
 
-1.This is a Airline Reservation System
-2.Validating Passport Number and Email Id
-3.Operation Used
-  -Reserve Seats
-  -Cancel Seats
-  -Display Ticket Details
-4.Validation of Passport Number from the file 'passportValidation.h' headerfile
-5.Validation of Email Id from the file 'emailValidation.h' headerfile
+1. This is a Airline Reservation System
+2. Validating Passport Number and Email Id
+3. Operation Used
+   - Reserve Seats
+   - Cancel Seats
+   - Display Ticket Details
+4. Validation of Passport Number from the file 'passportValidation.h' headerfile
+5. Validation of Email Id from the file 'emailValidation.h' headerfile
 
 
 ## Defining Our System
