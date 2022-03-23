@@ -34,7 +34,7 @@
 ## 4 W's and 1 H
 
 ### WHO - 
-            Airline Reservation System
+Airline Reservation System
          
 ### WHAT - 
             This System allows book airline tickets,cancel tickets and view all booking details for the user.
