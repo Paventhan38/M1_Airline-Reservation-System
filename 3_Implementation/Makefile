@@ -1,4 +1,4 @@
 Build:
-	gcc app.c unity/unity.c -Iunity
+	gcc Function.c test_airline.c unity/unity.c -Iunity 
 Run:
-	./app.o
+	./a.out

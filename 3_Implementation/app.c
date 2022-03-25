@@ -1,17 +1,10 @@
 #include<stdio.h>
 #include<string.h>
-#include "emailValidation.h"
-#include "passportValidation.h"
-#include "struct.h"
+#include "Function.h"
 struct Passenger;
 
 
-void reserve();
-void cancel();
-void display();
 
-
-int noOfSeatsFilled = 0;
 
 int main(){
 
