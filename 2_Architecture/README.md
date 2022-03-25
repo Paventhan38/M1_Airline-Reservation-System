@@ -14,6 +14,5 @@
 
 
 ## Tools
- 
-   -  [Draw.io](https://app.diagrams.net/)
-   -  [Creately](https://app.creately.com/)
+* [Draw.io](https://app.diagrams.net/)
+* [Creately](https://app.creately.com/)
