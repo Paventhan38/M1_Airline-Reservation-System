@@ -9,10 +9,10 @@ This is a Airline Reservation System, initially choice will be displayed to the 
 Passport validation and Email Id fucntion has been added throug a header file. If any of this validation get failed,the system will not proceed to the further steps. Your booking get cancelled. If the user is willing to cancel the ticket they cancel by giving respected passport number given while the reservation process. If the User completed their booking they can opt for exit option to exit the reservation system.
 
 ## Features
-#### Booking Tickets
-#### Cancel Tickets
-#### View All Reservation Details
-#### Exit
+### Booking Tickets
+### Cancel Tickets
+### View All Reservation Details
+### Exit
 
 
 ## SWOT Analysis
