@@ -21,23 +21,23 @@ Passport validation and Email Id fucntion has been added throug a header file. I
 ## 4W's and 1H
 
 ### WHO
-### - Airline Reservation System
+*   Airline Reservation System
          
 ### WHAT
-### - This System allows book airline tickets,cancel tickets and view all booking details for the user.
+*   This System allows book airline tickets,cancel tickets and view all booking details for the user.
             
 ### WHEN
-### - When the user need quick access to the task,this reduce manual work and save their valuable time
+*   When the user need quick access to the task,this reduce manual work and save their valuable time
         
 ### WHERE
-### - This issue impact all other part of the world in other airline reservation system where there is a lot of booking,cancellation of tickets happening in                 all the time
+*   This issue impact all other part of the world in other airline reservation system where there is a lot of booking,cancellation of tickets happening in                 all the time
              
 ### HOW
-### - Developing a system with all the required functionalities,booking new ticket,cancel ticket and the other required functionalities will consume more time               also workers to complete these actions
+*   Developing a system with all the required functionalities,booking new ticket,cancel ticket and the other required functionalities will consume more time               also workers to complete these actions
          
 
 ## Tools
-### * [Draw.io](https://app.diagrams.net/)
-### * [Creately](https://app.creately.com/)
-### * [Visual Studio Code](https://code.visualstudio.com/)
+* [Draw.io](https://app.diagrams.net/)
+* [Creately](https://app.creately.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
   
