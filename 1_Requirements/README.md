@@ -19,7 +19,6 @@ This is a Airline Reservation System, initially choice will be displayed to the 
 ![SWOT](https://user-images.githubusercontent.com/66021448/159547605-8629e7a6-2ddb-432a-af18-6bb970751cef.jpg)
 
 
-
 ## 4 W's and 1 H
 
 ### WHO
@@ -32,11 +31,12 @@ This is a Airline Reservation System, initially choice will be displayed to the 
 ### - When the user need quick access to the task,this reduce manual work and save their valuable time
         
 ### WHERE
-### - This issue impact all other part of the world in other airline reservation system where there is a lot of booking,cancellation of tickets happening in               all the time
+### - This issue impact all other part of the world in other airline reservation system where there is a lot of booking,cancellation of tickets happening in                 all the time
              
 ### HOW
 ### - Developing a system with all the required functionalities,booking new ticket,cancel ticket and the other required functionalities will consume more time               also workers to complete these actions
          
 
-  
+## Tools
+
   
