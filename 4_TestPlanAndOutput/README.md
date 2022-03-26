@@ -1,7 +1,7 @@
 # TestPlan and Output
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
-|-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |H_01| Provide required details to book a ticket|Passport Number and Email Id | Successfully Validated| Successfully Validated | PASS |
 |H_01| When the given passport number and email format is wrong | Passport Number and Email Id | Invalid Format | Invalid Format | PASS |
 |H_02| When the given passport number and email format is valid | Passport Number and Email Id | valid Format | valid Format | PASS |
