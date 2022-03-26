@@ -51,7 +51,7 @@ Passport validation and Email Id fucntion has been added throug a header file. I
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-|LR01|User need to book a ticket in a user entry mode|HR01|IMPLEMENTED|
+|LR01|User need to book a ticket in a user entry mode manually |HR01|IMPLEMENTED|
 |LR02|User shall be able to book the ticket with correct user details |HR01| IMPLEMENTED |
 |LR03| Users Details will get validated, get proceed if it is valid | HR01 | IMPLEMENTED |
 |LR04| User will be asked the reservation details | HR02| IMPLEMENTED |
