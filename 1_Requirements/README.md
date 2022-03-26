@@ -41,7 +41,7 @@ Passport validation and Email Id fucntion has been added throug a header file. I
 ## High Level Requirements 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User shall be able to login to the system| Techincal | IMPLEMENTED | 
+| HR01 | User shall be able to view the welcome page | Techincal | IMPLEMENTED | 
 | HR02 | User shall be able to Book ticket | Techincal | IMPLEMENTED |
 | HR03 | User shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
 | HR04 | User shall be able to cancel a ticket| Techincal | IMPLEMENTED |
@@ -51,8 +51,8 @@ Passport validation and Email Id fucntion has been added throug a header file. I
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-|LR01|User shall be able to login to the system with correct login details |HR01| IMPLEMENTED |
-|LR02|User need to book a ticket in a user entry mode|HR01|IMPLEMENTED|
+|LR01|User need to book a ticket in a user entry mode|HR01|IMPLEMENTED|
+|LR02|User shall be able to book the ticket with correct user details |HR01| IMPLEMENTED |
 |LR03| Users Details will get validated, get proceed if it is valid | HR01 | IMPLEMENTED |
 |LR04 |User can book their ticket with their destination| HR02 | IMPLEMENTED |
 |LR05| User will be asked the reservation details | HR02| IMPLEMENTED |
