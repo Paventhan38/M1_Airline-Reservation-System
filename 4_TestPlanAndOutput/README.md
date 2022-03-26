@@ -2,7 +2,7 @@
 
 | **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-| T_01|H_01| Provide required details to book a ticket|Passport Number and Email Id | Successfully validated| Successfully Validated | PASS |
+| T_01|H_01| Provide required details to book a ticket|Passport Number and Email Id | Successfully Validated| Successfully Validated | PASS |
 | T_02|H_01| When the given passport number and email format is wrong | Passport Number and Email Id | Invalid Format | Invalid Format | PASS |
 | T_03|H_02| When the given passport number and email format is valid | Passport Number and Email Id | valid Format | valid Format | PASS |
 | T_04 |H_02| Display the details and options available | Enter Choice | Display Details | Display Details | PASS |
