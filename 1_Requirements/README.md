@@ -56,7 +56,7 @@ Passport validation and Email Id fucntion has been added throug a header file. I
 |LR03| Users Details will get validated, get proceed if it is valid | HR01 | IMPLEMENTED |
 |LR04 |User can book their ticket with their destination| HR02 | IMPLEMENTED |
 |LR05| User will be asked the reservation details | HR02| IMPLEMENTED |
-|LR06 |User can cancel the ticket with the specific details given at the time of booking | HR05 | IMPLEMENTED |
+|LR06 | user gives booking details to cancel ticket,if the ticket is not booked in that particular user detail,massage appear incorrect ticket detail unable cancel tickets  | HR05 | IMPLEMENTED |
 |LR07 |Displaying the summary of the ticket booked  | HR03 |IMPLEMENTED|
          
 
