@@ -6,7 +6,7 @@
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |H_01| Welcome page,choice will be displayed | Enter choice | Details Displayed | Details Displayed | Scenario |
 |H_02| User enter booking details,it will be verified | Passport Number and Email Id| Verified | Verfied | Techinal |
-|H_03| If user's booking details verfication fail's | Passport Number and Email Id | Verfication Failed | Verification Failed | Technical |
+|H_03| If user's booking details verification fail's | Passport Number and Email Id | Verfication Failed | Verification Failed | Technical |
 |H_04| Display the details of the ticket booked| Enter Choice | Display Details | Display Details | Technical |
 |H_05| cancel ticket, if ticket is booked in that particular user details | Passport Number | Ticket Cancelled | Ticket Cancelled |Technical |
 |H_06| Exit from the process | Enter choice | Exit | Exit | Technical |
