@@ -5,3 +5,5 @@ Airline Reservation System, passenger can reserve their tickets also they can ca
 [![Build CI - Linux](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/c-cpp.yml)
 
 [![Cppcheck Analysis](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/C_Analysis.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/C_Analysis.yml)
+
+[![Unit Testing - Unity](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/unit_test.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/unit_test.yml)
