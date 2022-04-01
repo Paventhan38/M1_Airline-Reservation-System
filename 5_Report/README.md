@@ -38,7 +38,7 @@ Since this project has all the functions in a seperate file named as "test_airli
    ![Tested](https://user-images.githubusercontent.com/66021448/161215672-12598d8d-3964-49c6-a4b4-78c5432c652c.png)
   
 ### Documentation
-Documenation was done by a tool doxywiazrd as a doxy file.
+Documenation was done by a tool Doxywizard as a doxy file.
 
 ![Doxygen](https://user-images.githubusercontent.com/66021448/161219300-2c1cc472-d6fb-4d7b-9f90-eaa7a427228c.png)
 
