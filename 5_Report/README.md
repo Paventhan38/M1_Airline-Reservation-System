@@ -23,7 +23,7 @@ The system allows the user to Book Tickets,Cancel Tickets,View all booking recor
                             * display()
   * emailValidation:
                This file will validate the emailId given by the user, if the format is valid the user get proceed to next step else it throws an error
-                ![04_email validation 1](https://user-images.githubusercontent.com/66021448/161214033-ed00ec1b-6228-42e0-a45a-e03d4125e1eb.png) ![05_email validation 2](https://user-images.githubusercontent.com/66021448/161214043-6d5a1f93-1a51-4e1a-89fc-5cbb29cf794a.png)
+ ![04_email validation 1](https://user-images.githubusercontent.com/66021448/161214033-ed00ec1b-6228-42e0-a45a-e03d4125e1eb.png) ![05_email validation 2](https://user-images.githubusercontent.com/66021448/161214043-6d5a1f93-1a51-4e1a-89fc-5cbb29cf794a.png)
   * passportValidation:
                File validates the passport number the format get accepts,if it has required format and get proceed to further process else it throws error
   
