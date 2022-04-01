@@ -21,3 +21,6 @@ Airline Reservation System, passenger can reserve their tickets also they can ca
 
 ### Valgrind
 [![Valgrind](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/Valgrind_Check.yml)
+
+### Windows On Build
+[![Build CI - Windows](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/BuildOn_windows.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/BuildOn_windows.yml)
