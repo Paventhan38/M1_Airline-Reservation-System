@@ -6,7 +6,7 @@ Airline Reservation System, passenger can reserve their tickets also they can ca
 ### Build On Linux
 [![Build CI - Linux](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/c-cpp.yml)
 
-### CPP Check Analysis
+### CPPCheck Analysis
 [![Cppcheck Analysis](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/C_Analysis.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/C_Analysis.yml)
 
 ### Unit Testing
@@ -18,3 +18,6 @@ Airline Reservation System, passenger can reserve their tickets also they can ca
 ### Codiga
 ![Codiga](https://api.codiga.io/project/32301/status/svg)
 ![Codiga](https://api.codiga.io/project/32301/score/svg)
+
+### Valgrind
+[![Valgrind](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/Valgrind_Check.yml)
