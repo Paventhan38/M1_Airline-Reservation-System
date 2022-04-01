@@ -33,9 +33,13 @@ The system allows the user to Book Tickets,Cancel Tickets,View all booking recor
    ![03_Passport validation 2](https://user-images.githubusercontent.com/66021448/161214070-e5a66a3b-0a37-49ce-9f9c-92c14d8012b1.png)
      
 ### Test File
-Since this project has all the functions in a seperate file also the other validation files has been called through a Function file with use of Make file,atlast file get tested by unity.
+Since this project has all the functions in a seperate file named as "test_airlines" also the other validation files has been called through this file with use of Make file,atlast file get tested by unity.
       
    ![Tested](https://user-images.githubusercontent.com/66021448/161215672-12598d8d-3964-49c6-a4b4-78c5432c652c.png)
   
-                    
-  
+### Documentation
+Documenation was done by a tool doxywiazrd as a doxy file.
+
+![Doxygen](https://user-images.githubusercontent.com/66021448/161219300-2c1cc472-d6fb-4d7b-9f90-eaa7a427228c.png)
+
+
