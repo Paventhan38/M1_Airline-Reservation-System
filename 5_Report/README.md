@@ -64,9 +64,11 @@ Documenation was done by a tool Doxywizard
 ![Doxygen](https://user-images.githubusercontent.com/66021448/161219300-2c1cc472-d6fb-4d7b-9f90-eaa7a427228c.png)
 
 ## Advantages
-  Easy and Faster to access
+   Easy and Faster to access
+   User Friendly
 ## Disadvantages
-  Improvement in GUI
+   Improvement in GUI
+   Internet access required
 
 ## Tools Used
  - GCC Compiler
