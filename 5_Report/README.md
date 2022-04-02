@@ -4,43 +4,69 @@
 The Intension of this project is to provide information of the AIRLINE TICKET BOOKING to a customer to book thier tickets.The project has developed efficiently to carry out process easily.
 The system allows the user to Book Tickets,Cancel Tickets,View all booking records.
 
-### Main File
-  * Main file is the initial point of executing a program.It calls the other fucntion files to access the function over there.
-  * Main file will redirect to other files,dependes upon the user choice and actions.'
+## Cost and Features
+ - Cost Efficient
+ - Easier Access
   
-### Other Files
+## TimeLine
+Problem Statement-----Research-----Plan-----Design-----Implement-----Testing-----Execute-----Outcome
 
-  * Other files actions will be differ from main functions
-  * actions of each file be unique,depends upon the user choice
-  
-### Header Files
+## SWOT ANALYSIS
+![SWOT](https://user-images.githubusercontent.com/66021448/159547605-8629e7a6-2ddb-432a-af18-6bb970751cef.jpg)
 
-  * Functions:
-              All the functions required for the project is been accessed through Function file,if main file has a work with funciton file,function file can called in header portion of main file.
-                * Function Used:
-                            * resesrve()
-                            * cancel()
-                            * display()
-  * emailValidation:
-               This file will validate the emailId given by the user, if the format is valid the user get proceed to next step else it throws an error
-              
-   ![04_email validation 1](https://user-images.githubusercontent.com/66021448/161214033-ed00ec1b-6228-42e0-a45a-e03d4125e1eb.png) 
-   ![05_email validation 2](https://user-images.githubusercontent.com/66021448/161214043-6d5a1f93-1a51-4e1a-89fc-5cbb29cf794a.png)
-  * passportValidation:
-               File validates the passport number the format get accepts,if it has required format and get proceed to further process else it throws error
+
+## 4W's and 1H
+
+### WHO
+*   Airline Reservation System
+         
+### WHAT
+*   This System allows book airline tickets,cancel tickets and view all booking details for the user.
+            
+### WHEN
+*   When the user need quick access to the task,this reduce manual work and save their valuable time
+        
+### WHERE
+*   This issue impact all other part of the world in other airline reservation system where there is a lot of booking,cancellation of tickets happening in                 all the time
+             
+### HOW
+*   Developing a system with all the required functionalities,booking new ticket,cancel ticket and the other required functionalities will consume more time               also workers to complete these actions
+
+### Detail requirements
+
+## High Level Requirements 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to view the welcome page | Techincal | IMPLEMENTED | 
+| HR02 | User shall be able to Book ticket | Techincal | IMPLEMENTED |
+| HR03 | User shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
+| HR04 | User shall be able to cancel a ticket| Techincal | IMPLEMENTED |
+| HR05 | User shall be able to view the reserved seats  | Techincal | IMPLEMENTED |
+
+### Low level Requirements
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|LR01|User need to book a ticket in a user entry mode manually |HR01|IMPLEMENTED|
+|LR02|User shall be able to book the ticket with correct user details |HR01| IMPLEMENTED |
+|LR03| Users Details will get validated, get proceed if it is valid | HR01 | IMPLEMENTED |
+|LR04| User will be asked the reservation details | HR02| IMPLEMENTED |
+|LR05|User can book their ticket with their destination| HR02 | IMPLEMENTED |
+|LR06| user gives booking details to cancel ticket,if the ticket is not booked in that particular user detail,massage appear incorrect ticket detail unable cancel tickets  | HR04 | IMPLEMENTED |
+|LR07 |Displaying the summary of the ticket booked  | HR05 |IMPLEMENTED|
+
+## Architecture
+![Component Diagram](https://user-images.githubusercontent.com/66021448/159627508-c527326a-6e2d-4363-b6e5-9a0aa35c2ffa.png)
      
-   ![02_Passport validation 1](https://user-images.githubusercontent.com/66021448/161214063-a5628993-8cff-41cd-9a22-54bb095a40f0.png)
-   ![03_Passport validation 2](https://user-images.githubusercontent.com/66021448/161214070-e5a66a3b-0a37-49ce-9f9c-92c14d8012b1.png)
-     
-### Test File
-Since this project has all the functions in a seperate file named as "test_airlines" also the other validation files has been called through this file with use of Make file,atlast file get tested by unity.
-      
-   ![Tested](https://user-images.githubusercontent.com/66021448/161215672-12598d8d-3964-49c6-a4b4-78c5432c652c.png)
-  
 ### Documentation
-Documenation was done by a tool Doxywizard as a doxy file.
+Documenation was done by a tool Doxywizard 
 
 ![Doxygen](https://user-images.githubusercontent.com/66021448/161219300-2c1cc472-d6fb-4d7b-9f90-eaa7a427228c.png)
+
+## Advantages
+  Easy and Faster to access
+## Disadvantages
+  Improvement in GUI
 
 
 
