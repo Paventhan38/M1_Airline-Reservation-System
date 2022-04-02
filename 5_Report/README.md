@@ -32,9 +32,9 @@ Problem Statement-----Research-----Plan-----Design-----Implement-----Testing----
 ### HOW
 *   Developing a system with all the required functionalities,booking new ticket,cancel ticket and the other required functionalities will consume more time               also workers to complete these actions
 
-### Detail requirements
+## Detail requirements
 
-## High Level Requirements 
+### High Level Requirements 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
 | HR01 | User shall be able to view the welcome page | Techincal | IMPLEMENTED | 
@@ -64,11 +64,11 @@ Documenation was done by a tool Doxywizard
 ![Doxygen](https://user-images.githubusercontent.com/66021448/161219300-2c1cc472-d6fb-4d7b-9f90-eaa7a427228c.png)
 
 ## Advantages
-  Easy and Faster to access
-  User Friendly
+ Easy and Faster to access
+ User Friendly
 ## Disadvantages
-  Improvement in GUI
-  Internet access required
+ Improvement in GUI
+ Internet access required
 
 ## Tools Used
  - GCC Compiler
