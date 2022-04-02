@@ -11,3 +11,15 @@ Airline Reservation System, passenger can reserve their tickets also they can ca
 | Codiga | ![Codiga](https://api.codiga.io/project/32301/status/svg)  ![Codiga](https://api.codiga.io/project/32301/score/svg) |
 | Valgrind | [![Valgrind](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/Valgrind_Check.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/Valgrind_Check.yml) |
 | Windows On Build | [![Build CI - Windows](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/BuildOn_windows.yml/badge.svg)](https://github.com/Paventhan38/M1_Airline-Reservation-System/actions/workflows/BuildOn_windows.yml) |
+
+
+## Folder Structure
+
+| Folder | Description |
+| ------ | ----------- |
+| 1_Requirements | Documents detailing requirements |
+| 2_Architecture | Documents specifying architecture and detail |
+| 3_Implementation | All code and documentation |
+| 4_TestPlanAndOutput | Test plans and procedures |
+| 5_Report | Documentation of the project |
+| 6_ImagesAndVideos | Output images |
