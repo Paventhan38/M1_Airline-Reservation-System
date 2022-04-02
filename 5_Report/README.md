@@ -68,5 +68,9 @@ Documenation was done by a tool Doxywizard
 ## Disadvantages
   Improvement in GUI
 
+## Tools Used
+ - GCC Compiler
+ - Visual Studio Code
+ - WSL(Windows Subsystem for Linux)
 
 
